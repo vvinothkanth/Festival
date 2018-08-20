@@ -1,0 +1,5 @@
+E:\vinothkanth\SampleProgram\DesigningPattern\DiscountMethods\obj\Debug\DiscountMethods.csprojResolveAssemblyReference.cache
+E:\vinothkanth\SampleProgram\DesigningPattern\DiscountMethods\bin\Debug\DiscountMethods.dll
+E:\vinothkanth\SampleProgram\DesigningPattern\DiscountMethods\bin\Debug\DiscountMethods.pdb
+E:\vinothkanth\SampleProgram\DesigningPattern\DiscountMethods\obj\Debug\DiscountMethods.dll
+E:\vinothkanth\SampleProgram\DesigningPattern\DiscountMethods\obj\Debug\DiscountMethods.pdb
